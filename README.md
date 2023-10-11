@@ -1,4 +1,5 @@
 # Gomoku
+![alt text]([Gomokubg.png])
 Gomoku with Python
 Created by Yuki Kawahara and Daniel Fang
 
