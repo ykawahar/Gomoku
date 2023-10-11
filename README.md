@@ -1,5 +1,5 @@
 # Gomoku
-![alt text]([Gomokubg.png])
+![alt text](https://github.com/ykawahar/Gomoku/blob/main/Gomokubg.png)
 Gomoku with Python
 Created by Yuki Kawahara and Daniel Fang
 
